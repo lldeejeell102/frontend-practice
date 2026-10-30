@@ -1,0 +1,22 @@
+/* TODO: Define at least 3 custom properties here and use them below */
+:root {
+
+}
+
+/* A small reset to start from */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* TODO: Style your header, nav, sections, articles, form, and footer */
